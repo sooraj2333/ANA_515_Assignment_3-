@@ -1,5 +1,8 @@
 # ANA_515_Assignment_3-
 Cleaning data.
+
+The Downloaded file and used as data : StormEvents_details-ftp_v1.0_d1991_c20170717
+
 Has the following answers to :
 
  *Go to https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/ and download the bulk storm details data for the year you were born, in the file that starts “StormEvents_details” and includes “dXXXX”. For example, it looks like this for 2017:
